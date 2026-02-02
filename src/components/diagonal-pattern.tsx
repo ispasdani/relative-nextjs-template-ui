@@ -22,4 +22,3 @@ const DiagonalPattern = ({
 };
 
 export default DiagonalPattern;
-np;
